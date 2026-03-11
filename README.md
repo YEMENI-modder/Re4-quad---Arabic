@@ -17,10 +17,13 @@ ExtremeEditor:
 
 -الحقوق
 
-جميع الحقوق ل @JADERLINK انا فقط شخص يريد ان يضيف لغه عربيه لهاذا البرنامج
+جميع الحقوق ل JADERLINK انا فقط شخص يريد ان يضيف لغه عربيه لهاذا البرنامج
 
 ملفات تطبيقات jaderlink الذي تم تعديلها 
 
 (https://github.com/JADERLINK/Re4QuadExtremeEditor)
 -
 (https://github.com/JADERLINK/Re4QuadNewAge) 
+-
+
+حساب jaderlink : https://github.com/JADERLINK (شكرآ للتطبيق الخاص به ساعد الكثير من الناس في عالم المودينق) 
