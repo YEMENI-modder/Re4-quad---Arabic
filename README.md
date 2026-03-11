@@ -9,7 +9,7 @@ RE4 QUAD - Arabic
 NEW AGE:
 ![Screenshot_20260310_181958](https://github.com/user-attachments/assets/1357c56d-e083-4166-b2a3-0b269bbde6a7)
 
-(ارجوكم لا احد يسأل لماذا هناك تيك توك باليمين😓) 
+(ارجوكم لا احد يسأل لماذا هناك تيك توك باليسار😓) 
 
 ExtremeEditor:
 ![Screenshot_20260310_060215](https://github.com/user-attachments/assets/eb4e9b23-caef-427a-8ab9-c889ac604ecd)
