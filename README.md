@@ -1,29 +1,36 @@
-RE4 QUAD - Arabic
+# RE4 QUAD - Arabic
 
--طريقه تشغيله
+تمت إضافة اللغة العربية لهذا المشروع لتسهيل تجربة المستخدم العربي.
 
-هناك ملف داخل التعديل اسمه README يشرح كيف تفعل التعديل باسهل طريقه
+---
 
--صور للبرنامج مع اللغه العربيه
+## طريقة التشغيل
 
-NEW AGE:
+يوجد ملف داخل التعديل باسم `README` يشرح **بأسهل طريقة ممكنة** كيفية تفعيل التعديل.
+
+---
+
+## صور للبرنامج مع اللغة العربية
+
+### NEW AGE
 ![Screenshot_20260310_181958](https://github.com/user-attachments/assets/1357c56d-e083-4166-b2a3-0b269bbde6a7)
 
-(ارجوكم لا احد يسأل لماذا هناك تيك توك باليسار😓) 
+> (ملاحظة: لا تسأل عن شعار TikTok على اليسار 😓)
 
-ExtremeEditor:
+### ExtremeEditor
 ![Screenshot_20260310_060215](https://github.com/user-attachments/assets/eb4e9b23-caef-427a-8ab9-c889ac604ecd)
 
+---
 
--الحقوق
+## الحقوق
 
-جميع الحقوق ل @JADERLINK انا فقط شخص يريد ان يضيف لغه عربيه لهاذا البرنامج
+- جميع الحقوق محفوظة لـ @JADERLINK  
+- أنا مجرد شخص أضفت **اللغة العربية** لهذا البرنامج.
 
-ملفات تطبيقات jaderlink الذي تم تعديلها 
+### روابط المشاريع الأصلية:
 
-(https://github.com/JADERLINK/Re4QuadExtremeEditor)
--
-(https://github.com/JADERLINK/Re4QuadNewAge) 
--
+- [Re4Quad ExtremeEditor](https://github.com/JADERLINK/Re4QuadExtremeEditor)  
+- [Re4Quad NewAge](https://github.com/JADERLINK/Re4QuadNewAge)
 
-حساب jaderlink : https://github.com/JADERLINK (شكرآ للتطبيق الخاص به ساعد الكثير من الناس في عالم المودينق) 
+**حساب JADERLINK على GitHub:** [https://github.com/JADERLINK](https://github.com/JADERLINK)  
+> شكراً له على البرنامج الأصلي الذي ساعد الكثير من الناس في عالم المودينغ.
